@@ -47,3 +47,6 @@ Get microbreweries:
 
 Get beers:
 - GET \<base url\>/beers
+
+Get beers from microbrewery
+- GET \<base url\>/microbreweries/:brewery/beers
