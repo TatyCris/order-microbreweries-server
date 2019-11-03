@@ -1,7 +1,7 @@
 {
     "breweries": [
         {
-            "address": "Crossing 43",
+            "address": "Overtocht 43",
             "city": "Bodegraven",
             "name": "Brouwerij de Molen",
             "open": [
@@ -12,12 +12,12 @@
                 "Saturday",
                 "Sunday"
             ],
-            "zip code": "2411 BT"
+            "zipcode": "2411 BT"
         },
         {
             "address": "Weverij 5",
             "city": "Amstelveen",
-            "name": "the after-brewers",
+            "name": "de naeckte brouwers",
             "open": [
                 "Wednesday"
             ],
@@ -39,7 +39,7 @@
             "zipcode": "2011 WB"
         },
         {
-            "address": "Primary site 2A",
+            "address": "Pratumplaats 2A",
             "city": "Utrecht (De Meern)",
             "name": "Maximus",
             "open": [
@@ -49,12 +49,12 @@
                 "Saturday",
                 "Sunday"
             ],
-            "zip code": "3454 NA"
+            "zipcode": "3454 NA"
         },
         {
             "address": "Aelbrechtskolk 12",
             "city": "Rotterdam",
-            "name": "De Pelgrim City Brewery",
+            "name": "Stadsbrouwerij De Pelgrim",
             "open": [
                 "Monday",
                 "Tuesday",
@@ -63,11 +63,11 @@
                 "Friday",
                 "Saturday"
             ],
-            "zip code": "3024 RE"
+            "zipcode": "3024 RE"
         },
         {
             "address": "Guido Gezellelaan 49",
-            "city": "Mechelen, Belgium",
+            "city": "Mechelen, BelgiÃ«",
             "name": "Brouwerij Het Anker",
             "open": [
                 "Tuesday",
@@ -80,13 +80,13 @@
         {
             "address": "Achterweg 22",
             "city": "Limmen",
-            "name": "Dampegheest Brewery",
+            "name": "Brouwerij Dampegheest",
             "open": [
                 "Friday",
                 "Saturday",
                 "Sunday"
             ],
-            "zip code": "1906 AG"
+            "zipcode": "1906 AG"
         },
         {
             "address": "Funenkade 7",
@@ -111,34 +111,34 @@
                 "Thursday",
                 "Friday"
             ],
-            "zip code": "2318 BX"
+            "zipcode": "2318 BX"
         },
         {
             "address": "Schilderweg 214",
             "city": "Oudeschild",
-            "name": "Texel Beer Brewery",
+            "name": "Texelse Bierbrouwerij",
             "open": [
                 "Thursday",
                 "Friday",
                 "Saturday"
             ],
-            "zip code": "1792 CK"
+            "zipcode": "1792 CK"
         },
         {
             "address": "Schoolstraat 77",
             "city": "Vleuten",
-            "name": "German & Lauret Specialty Beer Brewery",
+            "name": "Speciaalbierbrouwerij Duits & Lauret",
             "open": [
                 "Monday",
                 "Tuesday",
                 "Wednesday"
             ],
-            "zip code": "3451 AC"
+            "zipcode": "3451 AC"
         },
         {
-            "address": "But 2",
+            "address": "Maar 2",
             "city": "Jabeek",
-            "name": "De Maar village brewery",
+            "name": "Dorpsbrouwerij de Maar",
             "open": [
                 "Tuesday",
                 "Wednesday",
@@ -146,7 +146,7 @@
                 "Friday",
                 "Saturday"
             ],
-            "zip code": "6454 AM"
+            "zipcode": "6454 AM"
         }
     ]
 }
