@@ -15,7 +15,7 @@ app.get('/beers', (req, res) => {
 })
 
 app.get('/microbreweries/:brewery/beers', function (req, res) {
-    const brewery = req.params.brewery
+    const brewery = decodeURIComponent(req.params.brewery)
     const beersFromBrewery = beers.beers.filter(beer => beer.brewery === brewery)
 
     res.send(beersFromBrewery)
